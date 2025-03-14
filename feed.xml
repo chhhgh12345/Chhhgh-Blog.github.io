@@ -3,30 +3,31 @@
     <title>Chhhgh-Blog</title>
     <link href="https://chhhgh12345.github.io/Chhhgh-Blog.github.io/feed.xml" rel="self" />
     <link href="https://chhhgh12345.github.io/Chhhgh-Blog.github.io" />
-    <updated>2025-03-14T15:07:39+08:00</updated>
+    <updated>2025-03-14T15:15:38+08:00</updated>
     <author>
         <name>Chhhgh12345</name>
     </author>
     <id>https://chhhgh12345.github.io/Chhhgh-Blog.github.io</id>
 
     <entry>
-        <title>Hello guys</title>
+        <title>小站成立！</title>
         <author>
             <name>Chhhgh12345</name>
         </author>
-        <link href="https://chhhgh12345.github.io/Chhhgh-Blog.github.io/hello-guys.html"/>
-        <id>https://chhhgh12345.github.io/Chhhgh-Blog.github.io/hello-guys.html</id>
+        <link href="https://chhhgh12345.github.io/Chhhgh-Blog.github.io/xiao-zhan-cheng-li.html"/>
+        <id>https://chhhgh12345.github.io/Chhhgh-Blog.github.io/xiao-zhan-cheng-li.html</id>
 
-        <updated>2025-03-14T15:04:23+08:00</updated>
+        <updated>2025-03-14T15:15:38+08:00</updated>
             <summary>
                 <![CDATA[
-                    这是第一条博客！ This my first blog!
+                    这是第一篇博客！ This is my first blog!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>这是第一条博客！</p>
-<p>This my first blog!</p>
+                <p>这是第一篇博客！</p>
+<p>This is my first blog!</p>
+<figure class="post__image"><img loading="lazy"  src="https://chhhgh12345.github.io/Chhhgh-Blog.github.io/media/posts/2/test8e15784c-9ba8-4091-b205-a06171dd5b75.jpg" alt="" width="1280" height="1280" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://chhhgh12345.github.io/Chhhgh-Blog.github.io/media/posts/2/responsive/test8e15784c-9ba8-4091-b205-a06171dd5b75-xs.jpg 300w ,https://chhhgh12345.github.io/Chhhgh-Blog.github.io/media/posts/2/responsive/test8e15784c-9ba8-4091-b205-a06171dd5b75-sm.jpg 480w ,https://chhhgh12345.github.io/Chhhgh-Blog.github.io/media/posts/2/responsive/test8e15784c-9ba8-4091-b205-a06171dd5b75-md.jpg 768w ,https://chhhgh12345.github.io/Chhhgh-Blog.github.io/media/posts/2/responsive/test8e15784c-9ba8-4091-b205-a06171dd5b75-lg.jpg 1024w"></figure>
             ]]>
         </content>
     </entry>
