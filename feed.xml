@@ -27,7 +27,7 @@
             <![CDATA[
                 <p>这是第一篇博客！</p>
 <p>This is my first blog!</p>
-<figure class="post__image"><img loading="lazy"  src="https://chhhgh12345.github.io/Chhhgh-Blog.github.io/media/posts/2/test8e15784c-9ba8-4091-b205-a06171dd5b75.jpg" alt="" width="1280" height="1280" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://chhhgh12345.github.io/Chhhgh-Blog.github.io/media/posts/2/responsive/test8e15784c-9ba8-4091-b205-a06171dd5b75-xs.jpg 300w ,https://chhhgh12345.github.io/Chhhgh-Blog.github.io/media/posts/2/responsive/test8e15784c-9ba8-4091-b205-a06171dd5b75-sm.jpg 480w ,https://chhhgh12345.github.io/Chhhgh-Blog.github.io/media/posts/2/responsive/test8e15784c-9ba8-4091-b205-a06171dd5b75-md.jpg 768w ,https://chhhgh12345.github.io/Chhhgh-Blog.github.io/media/posts/2/responsive/test8e15784c-9ba8-4091-b205-a06171dd5b75-lg.jpg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://chhhgh12345.github.io/Chhhgh-Blog.github.io/media/posts/2/test8e15784c-9ba8-4091-b205-a06171dd5b75.jpg" alt="" width="1280" height="1280" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://chhhgh12345.github.io/Chhhgh-Blog.github.io/media/posts/2/responsive/test8e15784c-9ba8-4091-b205-a06171dd5b75-xs.jpg 320w ,https://chhhgh12345.github.io/Chhhgh-Blog.github.io/media/posts/2/responsive/test8e15784c-9ba8-4091-b205-a06171dd5b75-sm.jpg 480w ,https://chhhgh12345.github.io/Chhhgh-Blog.github.io/media/posts/2/responsive/test8e15784c-9ba8-4091-b205-a06171dd5b75-md.jpg 768w ,https://chhhgh12345.github.io/Chhhgh-Blog.github.io/media/posts/2/responsive/test8e15784c-9ba8-4091-b205-a06171dd5b75-xl.jpg 1024w"></figure>
             ]]>
         </content>
     </entry>
