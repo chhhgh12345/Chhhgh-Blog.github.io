@@ -3,10 +3,31 @@
     <title>Chhhgh-Blog</title>
     <link href="https://chhhgh12345.github.io/Chhhgh-Blog.github.io/feed.xml" rel="self" />
     <link href="https://chhhgh12345.github.io/Chhhgh-Blog.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-03-14T15:04:23+08:00</updated>
     <author>
         <name>Chhhgh12345</name>
     </author>
     <id>https://chhhgh12345.github.io/Chhhgh-Blog.github.io</id>
 
+    <entry>
+        <title>Hello guys</title>
+        <author>
+            <name>Chhhgh12345</name>
+        </author>
+        <link href="https://chhhgh12345.github.io/Chhhgh-Blog.github.io/hello-guys.html"/>
+        <id>https://chhhgh12345.github.io/Chhhgh-Blog.github.io/hello-guys.html</id>
+
+        <updated>2025-03-14T15:04:23+08:00</updated>
+            <summary>
+                <![CDATA[
+                    这是第一条博客！ This my first blog!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>这是第一条博客！</p>
+<p>This my first blog!</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
