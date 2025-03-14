@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://chhhgh12345.github.io/Chhhgh-Blog.github.io/sitemap.xml
