@@ -3,12 +3,51 @@
     <title>Chhhgh-Blog</title>
     <link href="https://chhhgh12345.github.io/Chhhgh-Blog.github.io/feed.xml" rel="self" />
     <link href="https://chhhgh12345.github.io/Chhhgh-Blog.github.io" />
-    <updated>2025-03-14T15:53:41+08:00</updated>
+    <updated>2025-04-17T14:26:47+08:00</updated>
     <author>
         <name>Chhhgh12345</name>
     </author>
     <id>https://chhhgh12345.github.io/Chhhgh-Blog.github.io</id>
 
+    <entry>
+        <title>基础-概念名词</title>
+        <author>
+            <name>Chhhgh12345</name>
+        </author>
+        <link href="https://chhhgh12345.github.io/Chhhgh-Blog.github.io/ji-chu-gai-nian-ming-ci.html"/>
+        <id>https://chhhgh12345.github.io/Chhhgh-Blog.github.io/ji-chu-gai-nian-ming-ci.html</id>
+
+        <updated>2025-04-17T14:26:47+08:00</updated>
+            <summary>
+                <![CDATA[
+                    多级域名收集🔢 不同的多级域名可能对应同一个ip地址，可以在不同域名间寻找网站漏洞。 域名系统（英文：Domain Name System，缩写：DNS）是互联网的一项服务。它作为将域名和IP地址相互映射的一个分布式数据库 CDN的全称是Content Delivery Network，即内容分发网络。也就是缓存节点技术。 平时访问或者扫描网站时的对象是这个网站的缓存节点（网站核心内容并不在缓存节点上），对安全检测有阻碍 PHP（小中型网站）、asp、aspx、jsp、javaweb（大中型）、pl、python、cgi 隐藏在用户系统中向外发送信息,而且本身具有一定权限,以便远程机器对本机的控制。体积较小且功能都很单一。绕过系统已有的安全设置，而且还能挫败系统上各种增强的安全。 https://searchsecurity.techtarget.com.cn/11-16048/&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>多级域名收集🔢</h3>
+<p>不同的多级域名可能对应同一个ip地址，可以在不同域名间寻找网站漏洞。</p>
+<h3>DNS😀</h3>
+<h6>什么是DNS</h6>
+<p>域名系统（英文：Domain Name System，缩写：DNS）是互联网的一项服务。它作为将域名和IP地址相互映射的一个分布式数据库</p>
+<h6>什么是CDN</h6>
+<p>CDN的全称是Content Delivery Network，即内容分发网络。也就是缓存节点技术。</p>
+<p>平时访问或者扫描网站时的对象是这个网站的缓存节点（网站核心内容并不在缓存节点上），对安全检测有阻碍</p>
+<h3>脚本语言🐶</h3>
+<h6>常见的脚本语言类型</h6>
+<p>PHP（小中型网站）、asp、aspx、jsp、javaweb（大中型）、pl、python、cgi</p>
+<h3>后门👨‍✈️</h3>
+<h6>什么是后门      后门有哪些</h6>
+<p>隐藏在用户系统中向外发送信息,而且本身具有一定权限,以便远程机器对本机的控制。体积较小且功能都很单一。绕过系统已有的安全设置，而且还能挫败系统上各种增强的安全。</p>
+<p><a href="#INTERNAL_LINK#/post/null" target="_blank" rel="noopener noreferrer">https://searchsecurity.techtarget.com.cn/11-16048/</a></p>
+<p>安全测试中的实际意义<br>方便下次更方便连接，获取对机器的控制。</p>
+<h6><br>免杀</h6>
+<p>避免被网站或者机器的防护程序删除</p>
+<h3>web组成架构🦄</h3>
+<p>网站源码：分脚本类型、应用方向<br>操作系统：windows、Linuxs<br>中间件（搭建平台）：apache、iis、tomcat、nginx等<br>数据库：mysql、access、mssql、oracle、sybase、db2、postsql等</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>我的小站成立！</title>
         <author>
